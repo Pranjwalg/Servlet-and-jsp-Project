@@ -1,4 +1,8 @@
 
+# Create a Registration Form using  Servlet and JSP
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjwal-8bb250204/)
 
 
-![Screenshot from 2022-07-22 01-35-38](https://user-images.githubusercontent.com/72875884/180305697-03b35171-dc26-48c7-a12d-7c912656e9e2.png)
